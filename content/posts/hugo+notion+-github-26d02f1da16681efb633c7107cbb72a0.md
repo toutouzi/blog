@@ -1,11 +1,12 @@
 ---
-title: "Markdown"
+title: "hugo+notion+ github"
 date: "2025-09-13T10:25:00.000Z"
-lastmod: "2025-09-13T16:37:00.000Z"
+lastmod: "2025-09-13T17:00:00.000Z"
 draft: false
 featuredImage: "https://www.notion.so/images/page-cover/woodcuts_1.jpg"
 series: []
-authors: []
+authors:
+  - "邓皓文"
 custom-front-matter: "hello"
 tags: []
 categories: []
@@ -13,7 +14,7 @@ NOTION_METADATA:
   object: "page"
   id: "26d02f1d-a166-81ef-b633-c7107cbb72a0"
   created_time: "2025-09-13T10:25:00.000Z"
-  last_edited_time: "2025-09-13T16:37:00.000Z"
+  last_edited_time: "2025-09-13T17:00:00.000Z"
   created_by:
     object: "user"
     id: "b18f7c6a-6808-46e2-8eb2-66d7f0c07aaf"
@@ -45,7 +46,13 @@ NOTION_METADATA:
       type: "people"
       people:
         - object: "user"
-          id: "657d1c71-eca5-475d-b9d3-3669efd38ab9"
+          id: "b18f7c6a-6808-46e2-8eb2-66d7f0c07aaf"
+          name: "邓皓文"
+          avatar_url: "https://s3-us-west-2.amazonaws.com/public.notion-static.com/adccd1\
+            74-45ea-4d8d-a913-8c5c9068f98a/wallpaper.jpeg"
+          type: "person"
+          person:
+            email: "f6spjr26gy@privaterelay.appleid.com"
     custom-front-matter:
       id: "c~kA"
       type: "rich_text"
@@ -74,7 +81,7 @@ NOTION_METADATA:
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2025-09-13T16:37:00.000Z"
+      last_edited_time: "2025-09-13T17:00:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
@@ -85,7 +92,7 @@ NOTION_METADATA:
       title:
         - type: "text"
           text:
-            content: "Markdown"
+            content: "hugo+notion+ github"
             link: null
           annotations:
             bold: false
@@ -94,14 +101,22 @@ NOTION_METADATA:
             underline: false
             code: false
             color: "default"
-          plain_text: "Markdown"
+          plain_text: "hugo+notion+ github"
           href: null
-  url: "https://www.notion.so/Markdown-26d02f1da16681efb633c7107cbb72a0"
+  url: "https://www.notion.so/hugo-notion-github-26d02f1da16681efb633c7107cbb72a0"
   public_url: null
 MANAGED_BY_NOTION_HUGO: true
 
 ---
 
+
+参考资料：
+
+- [https://github.com/Yubo0826/yubo0826.github.io](https://github.com/Yubo0826/yubo0826.github.io)
+- [https://github.com/yuanfoudev/yuanfoudev.github.io](https://github.com/yuanfoudev/yuanfoudev.github.io) （[博客](https://hugo.happyfou.com/posts/基于notion-hugo搭建博客/)）
+- [https://github.com/wzh7/wzh7.github.io](https://github.com/wzh7/wzh7.github.io)
+- [https://github.com/KevinChen1994/kevinchen1994.github.io](https://github.com/KevinChen1994/kevinchen1994.github.io) （python 改）
+- [notion_hugo 教程](https://notion.zhuang.me/docs/)
 
 # dhw test
 
@@ -211,7 +226,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sagittis commodo mau
 Hello !
 
 
-[Markdown]({{% relref "Markdown-26d02f1da16681efb633c7107cbb72a0.md" %}}) 
+[hugo+notion+ github]({{% relref "hugo+notion+-github-26d02f1da16681efb633c7107cbb72a0.md" %}}) 
 
 
 ---
