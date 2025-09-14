@@ -40,5 +40,13 @@ languageName = "English"
     name = "Categories"
     url = "/categories/"
     title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "fjy"
+    pre = ""
+    post = ""
+    name = "fjy"
+    url = "/fjy/"
+    title = ""
 
 
